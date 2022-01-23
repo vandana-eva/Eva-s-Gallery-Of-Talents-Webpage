@@ -1,0 +1,57 @@
+body
+{
+background-image: linear-gradient(to bottom, #3f096b, #6c0894, #a323df, #c87df3, #d39be9);
+}
+.channel
+{
+	width: 180px;margin-top: 20px;border-radius:100px;
+}
+.heading 
+{
+color:aliceblue;
+font-size: 600%;
+font-family:cursive;
+}
+.visit
+{
+color:rgb(230, 176, 255);
+font-size:larger;
+font-family:serif;
+}
+.wel
+{
+    color:rgb(206, 115, 245);
+    font-size: 200%;
+    font-family: fantasy;
+}
+.about
+{
+color:rgb(245, 138, 239);
+font-size:300%;
+font-family:serif;
+}
+.me 
+{
+    color:rebeccapurple;
+    font-family: cursive;
+    font-size: 200%;
+}
+.talents
+{
+    color:mediumblue;
+    font-family: serif;
+}
+.fan
+{
+    color:rgb(220, 171, 248);
+    font-family: serif;
+}
+.min
+{
+color:purple;
+font-family: serif;
+}
+#back_button
+{
+	font-size: 20px;
+}
