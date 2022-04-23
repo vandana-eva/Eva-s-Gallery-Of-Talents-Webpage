@@ -34,3 +34,32 @@ function Calli()
 {
     window.location="calli.html";
 }
+
+function agra() 
+{
+    window.location="agra.html";
+}
+function magic() 
+{
+    window.location="magic.html";
+}
+
+function roblox()
+{
+    window.location="roblox.html";
+}
+
+function games()
+{
+    window.location="games.html"
+}
+
+function club()
+{
+    window.location="ghaca_club.html"
+}
+
+function slime()
+{
+    window.location="slime.html"
+}
